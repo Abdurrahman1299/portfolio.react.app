@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Portfolio Coursera Application",
     description:
-      "A web application that was the final assessment to pass the 'Advanced React' course in Coursera provided by Meta 'Facebook'. All functionalities and design is created by me.",
+      "A web application that was the final assessment to pass the 'Advanced React' course in Coursera provided by Meta 'Facebook'. All functionalities and design is created by me. Styling was applied using CSS modules all in one file.",
     imageSrc:
       "https://github.com/Abdurrahman1299/portfolio.react.app/blob/master/landingpage.portfolio.png?raw=true",
     github: "https://github.com/Abdurrahman1299/portfolio.react.app",
