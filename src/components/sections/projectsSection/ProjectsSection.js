@@ -32,8 +32,8 @@ const projects = [
     description:
       "A web application that was the final assessment to pass the 'Advanced React' course in Coursera provided by Meta 'Facebook'. All functionalities and design is created by me.",
     imageSrc:
-      "https://github.com/Abdurrahman1299/Simple.Todo.React.App/blob/master/pics/app.png",
-    github: "https://github.com/Abdurrahman1299/Expenses_Tracker_App",
+      "https://github.com/Abdurrahman1299/portfolio.react.app/blob/master/landingpage.portfolio.png?raw=true",
+    github: "https://github.com/Abdurrahman1299/portfolio.react.app",
   },
 ];
 export default function ProjectsSection() {
